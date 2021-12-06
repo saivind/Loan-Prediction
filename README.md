@@ -1,4 +1,11 @@
-# Loan-Status-Prediction
+Loan-Status-Prediction
+
+Steps preformed in this project include;
+1. Data Cleaning
+2. Data Processing
+3. Data Handing
+4. Data Visualization using Seaborn
+5. Machine Learning (Classification analysis and Prediction Analysis)
 
 Hi, this project is to predict, whether any request for a loan, will be approved or not, simply by the use of machine learning.
 
